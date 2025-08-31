@@ -1,5 +1,3 @@
-
-
 ```markdown
 # I Can Build Systems, I Can Protect Systems, I Can Break Systems
 
@@ -33,13 +31,28 @@ Hi, I’m [Your Name / Alias]. I’ve spent my life **building, protecting, and 
 ---
 
 
+
 ---
 
 ## 🛠 Skills
 - **Cloud & IaC:** AWS, Terraform, Pulumi, Docker, Kubernetes  
 - **CI/CD & Automation:** GitHub Actions, GitLab CI, Jenkins  
 - **Security:** SOC monitoring, CySA+, eJPT labs, vulnerability scanning  
-- **Observability & DevOps:** Prometheus, Grafana, ELK, logging, observability 
+- **Observability & DevOps:** Prometheus, Grafana, ELK, logging, monitoring
+
+---
+
+## 📈 Roadmap
+- **Short-term:** CySA+ completion, SOC role applications  
+- **Mid-term:** eJPT certification, portfolio expansion  
+- **Long-term:** Platform engineering mastery (CKA, Terraform Associate, CNPA), Purple Team integration
+
+---
+
+## 💡 Contact
+- [LinkedIn](your-link)  
+- [Email](mailto:youremail@example.com)  
+- [Portfolio](your-website-or-blog)
 
 > “I can build systems, I can protect systems, I can break systems.”  
 > This profile demonstrates the evidence.
@@ -47,13 +60,3 @@ Hi, I’m [Your Name / Alias]. I’ve spent my life **building, protecting, and 
 
 ---
 
-✅ **Why this works**
-
-* Opens with your mantra — immediately memorable
-* Highlights **three distinct skill pillars**
-* Links to repos show tangible proof
-* Roadmap signals growth, ambition, and direction
-
----
-
-If you want, I can **also draft a visual diagram and roadmap graphic** to add to the README — it would show the **SOC → PenTest → Platform Engineering progression** at a glance. 
